@@ -1,0 +1,1 @@
+export const API_URL = "https://api.privatbank.ua/p24api/exchange_rates?json&date=01.12.2014"
